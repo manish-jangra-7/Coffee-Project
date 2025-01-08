@@ -150,7 +150,9 @@ nav input{display: none;}
 
 
 
-/* .wrap3 {} */
+.wrap3 {
+    margin-top: 50px;
+}
 .copu{
     background: url(img/coupel.webp) no-repeat top center/cover ;
     /* margin-top: 50px; */
